@@ -7,3 +7,6 @@ function minus(x,y){
 function multi(x,y){
     return x*y;
 }
+function divide(x,y){
+    return x/y;
+}
